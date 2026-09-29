@@ -1,0 +1,11 @@
+# Binary files
+fgs_gravity
+*.o
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# Build files
+*.log
